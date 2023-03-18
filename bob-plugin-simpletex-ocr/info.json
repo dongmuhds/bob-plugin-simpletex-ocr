@@ -1,0 +1,18 @@
+{
+  "identifier": "com.simpletex.latex-ocr",
+  "category": "ocr",
+  "version": "0.0.1",
+  "name": "SimpleTeX OCR",
+  "summary": "SimpleTeX OCR",
+  "author": "dongmu",
+  "icon": "",
+  "minBobVersion": "0.5.0",
+    "options": [
+        {
+            "identifier": "token",
+            "type": "text",
+            "title": "token",
+            "desc": "请在simpletex官网申请api，并填写，请申请api地址为：https://simpletex.cn/api"
+        }
+    ]
+}
